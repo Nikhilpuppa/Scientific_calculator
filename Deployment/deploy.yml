@@ -6,7 +6,7 @@
   tasks:
     - name: Pull Docker image
       docker_image:
-        name: jacobkick/calculator:latest
+        name: chandranikhil/scientific_calculator:latest
         source: pull
 
     - name: Start Docker service
