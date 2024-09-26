@@ -1,0 +1,5 @@
+2024-09-26 17:56:23.942 [main] INFO  org.example.Main - Start of Execution
+2024-09-26 17:56:31.470 [main] INFO  org.example.Main - Operation: Natural logarithm - Start
+2024-09-26 17:56:31.474 [main] INFO  org.example.Main - Operation: Natural logarithm, Input: 8.0, Result: 2.0794415416798357
+2024-09-26 17:56:31.474 [main] INFO  org.example.Main - Operation: Natural logarithm - End
+2024-09-26 17:56:31.474 [main] INFO  org.example.Main - End of Execution
