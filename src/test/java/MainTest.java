@@ -28,7 +28,7 @@ public class MainTest {
     @Test
     public void testFactorial_ValidInput() {
         long result = calculator.factorial(5);
-        assertEquals(120,result);
+        assertEquals(100,result);
     }
 
     @Test
@@ -40,7 +40,7 @@ public class MainTest {
     @Test
     public void testPower_ValidInput() {
         double result = calculator.power(2, 3);
-        assertEquals(8.0, result, 0.0001);
+        assertEquals(7.0,result, 0.0001);
     }
 
     @Test
