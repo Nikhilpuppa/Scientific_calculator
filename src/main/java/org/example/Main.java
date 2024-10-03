@@ -96,7 +96,11 @@ public class Main {
                 System.out.println("Natural logarithm of " + lnInput + " is: " + lnResult);
                 break;
 
-            case 4: // Power
+            case 4: // Powerouble exponent = scanner.nextDouble();
+                double powerResult = power(base, exponent);
+                System.out.println(base + " raised to the power of " + exponent + " is: " + powerResult);
+                break;
+
                 System.out.print("Enter the base number (x): ");
                 double base = scanner.nextDouble();
                 System.out.print("Enter the exponent (y): ");
